@@ -1,0 +1,6 @@
+- Hi 👋, I'm Anupam Mahato (@itsAnupamMahato)
+- I'm interested in Web Development and that's what I'm learning. My current skillset: [HTML5, CSS3, TailwindCSS].
+- I'm in my 3rd Sem, currently pursuing Computer Science and Data Science.
+- I'm currently divine deep into Deep Learning and Machine Learning also aiming to master the Full-Stack.
+- Can reach me through:
+   - https://anupammahato.bio.link
